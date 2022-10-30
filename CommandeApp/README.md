@@ -1,12 +1,12 @@
 # CommandeApp
 ## Bibliothèques
 
-- GUI (Graphic User Interface with tkinter)
-- SQLite DB
+- GUI (Graphic User Interface avec tkinter)
+- SQLite3
 
 ## Pourquoi avoir créer ce projet?
 
-Cette application avez pour but d'aider mon père à faire les commandes de nourriture dans l'entreprise où il travaille. Mon père n'étant embauché en tant que cuisinier mais n'ayant pas le choix de devoir faire ces commandes et l'entreprise n'ayant pas d'outils afin de lui facilité la tâche, et étant obligé de tout faire à la main. J'ai décidé de faire cette application.
+Cette application avait pour but d'aider mon père à faire les commandes de nourritures afin de pouvoir lui faire gagner du temps. L'entreprise où il travaille n'ayant personne pour faire les commandes mon père est donc obligé de les faire à la main, car l'entreprise n'a pas d'outils qui lui permette de lui facilité la tâche, il est donc obligé d'y consacré beaucoup de temps hors de ses heures de travail.
 
 ## Qu'est ce que cette application permet de faire?
 
