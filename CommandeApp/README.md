@@ -11,8 +11,8 @@ Cette application avez pour but d'aider mon père à faire les commandes de nour
 ## Qu'est ce que cette application permet de faire?
 
 Grâce à cette application vous pouvez :
-- Ajouter à la base de donnée stocker en local dans un fichier ".db"
-- Créer une commande.
-- Générer un tableau Excel de toute les informations de votre base de donnée, une fois votre commande terminer
+- Ajouter à la base de donnée, stocker en local dans un fichier ".db", un produit avec un identifiant, un libellé, et une unité de mesure.
+- Créer une commande, en ajoutant une quantité à votre produit.
+- Générer un tableau Excel de toutes les informations de votre base de donnée, et cela une fois votre commande terminer.
 
 Note : Dans votre base de donnée les produits auront par default leur quantité à 0, et une fois que votre fichier est généré l'ensemble des quantités des produits repasse à 0, la commande précédente est donc perdu une fois que ce fichier est généré.
