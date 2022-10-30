@@ -15,4 +15,4 @@ Grâce à cette application vous pouvez :
 - Créer une commande.
 - Générer un tableau Excel de toute les informations de votre base de donnée, une fois votre commande terminer
 
-Note : Dans base de donnée les produits auront par default leur quantité à 0, et une fois que votre fichier est généré l'ensemble des quantités des produits repasse à 0, la commande précédente est donc perdu une fois que ce fichier est généré.
+Note : Dans votre base de donnée les produits auront par default leur quantité à 0, et une fois que votre fichier est généré l'ensemble des quantités des produits repasse à 0, la commande précédente est donc perdu une fois que ce fichier est généré.
