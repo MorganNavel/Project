@@ -1,5 +1,5 @@
 # WordBank Application
-## Application
+## Libraries
 
 - GUI (Graphic User Interface with tkinter)
 - SQLite DB
